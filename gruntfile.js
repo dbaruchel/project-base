@@ -34,6 +34,10 @@ module.exports = function(grunt) {
       pug: {
         files: 'app/views/**/*.pug',
         tasks: ['pug']
+      },
+      sass: {
+        files: 'app/style/sass/*.scss',
+        tasks: ['sass']
       }
     }
   });
