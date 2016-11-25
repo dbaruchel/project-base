@@ -26,7 +26,7 @@ and follow the instructions to create package.json
 `npm install --save-dev grunt-contrib-watch`
 
 
-
+---
 **Note:** If you add another grunt task, don't forget to:
 - install the grunt plugin for the task
 - configure the task in grunt.initConfig({}) in the Gruntfile
