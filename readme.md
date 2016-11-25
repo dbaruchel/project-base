@@ -1,4 +1,5 @@
-#### Repo to quick start a static website with Grunt, Pug, Sass, and a Json file for data
+## Repo to quick start a static website
+####with Grunt, Pug, Sass, and a Json file for data
 
 You will need to **install Node for npm and Ruby for Sass**.
 
@@ -23,6 +24,7 @@ and follow the instructions to create package.json
 
 - Install grunt watch task:
 `npm install --save-dev grunt-contrib-watch`
+
 
 
 **Note:** If you add another grunt task, don't forget to:
